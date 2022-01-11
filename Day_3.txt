@@ -1,0 +1,3 @@
+solved 1 problem of level 2
+Easy:
+1.Count pairs with given sum
