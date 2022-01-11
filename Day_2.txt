@@ -1,0 +1,8 @@
+solved 2 problems of level-1
+and 2 problems of level-2
+level-1
+1.Move all the negative elements to one side of the array
+2.Find the Union and Intersect
+level 2
+3.Write a program to cyclically rotate an array by one
+4.Find the missing integeron of the two sorted arrays
